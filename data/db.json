@@ -1,0 +1,52 @@
+{
+  "transferences": [
+    {
+      "id": "1",
+      "value": 35,
+      "destination": "1212-1",
+      "date": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "value": 40,
+      "destination": "1213-1",
+      "date": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "value": 12.5,
+      "destination": "1214-1",
+      "date": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "value": 1,
+      "destination": "2",
+      "date": "2022-09-08T22:15:34.686Z",
+      "id": "aPrVRRN"
+    },
+    {
+      "value": 31231,
+      "destination": "03123",
+      "date": "2022-09-08T22:15:45.598Z",
+      "id": "yy2shbI"
+    },
+    {
+      "value": 222,
+      "destination": "222",
+      "date": "2022-09-08T22:19:19.649Z",
+      "id": "GKLkhD3"
+    },
+    {
+      "value": 234567,
+      "destination": "553-33",
+      "date": "2022-09-08T22:36:36.728Z",
+      "id": "PAMdEHE"
+    },
+    {
+      "value": 12.22,
+      "destination": "11111-000",
+      "date": "2022-09-08T22:43:42.555Z",
+      "id": "QysEHAj"
+    }
+  ]
+}

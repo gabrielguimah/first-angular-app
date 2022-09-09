@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.table {
+  text-align: center;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.table-header {
+  color: var(--primary);
+}
+
+.table-header-content {
+  padding: 10px;
+  border-bottom: 2px solid rgb(55, 61, 151);
+}
+
+.table-line {
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.table-line-content {
+  padding: 10px;
+  border-bottom: 1px solid var(--light-grey);
+}
